@@ -10,7 +10,6 @@ body {
   background-size: cover;*/
   /*Tudo isso acima pode ser minimizado no código abaixo*/
   background: url(./assets/bg-mobile-logo-final.png) no-repeat center / cover;
-  height: 100vh;
 }
 body * {
   font-family: "Inter", sans-serif;
