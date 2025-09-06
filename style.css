@@ -4,11 +4,6 @@
   box-sizing: border-box;
 }
 body {
-  /*background-image: url(./assets/bg-mobile.jpg);
-  background-repeat: no-repeat;
-  background-position: top center;
-  background-size: cover;*/
-  /*Tudo isso acima pode ser minimizado no código abaixo*/
   background: url(./assets/bg-mobile-logo-final.png) no-repeat center / cover;
 }
 body * {
@@ -22,21 +17,18 @@ body * {
   margin: 56px auto 0px;
   padding: 0 24px;
 }
-/*modelo de alinhamento pelo PAI, marcando o texto como centro :*/
+
 #profile {
   text-align: center;
   padding: 30px;
 }
 #profile img {
-  /*display: block;
-  modelo de alinhamento direto na imagem que tem por padrão inline*/
   width: 112px;
   margin: auto;
 }
 #profile p {
   font-weight: 500;
-  /*Por padrão o font-side dos navegadores é 16px
-  font-size: 16px;*/
+
   line-height: 24px;
   margin-top: 8px;
 }
